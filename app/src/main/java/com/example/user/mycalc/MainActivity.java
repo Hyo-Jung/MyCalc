@@ -17,7 +17,7 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
 
     //변수 설정
-    EditText et_first;
+    /*EditText et_first;
     EditText et_second;
     TextView tv_ruslt;
 
@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
     Button bt_subs;
     Button bt_mult;
     Button bt_divd;
-    Button bt_mod;
+    Button bt_mod;*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
